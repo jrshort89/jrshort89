@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🔭 I am currently working on my final project for my coding bootcamp!
+
+👯 I’m looking to collaborate on pretty much anything educational in the coding realm.
+
+⚡ Fun fact: I nerd out over skateboarding among many other things.
 <!--
 **jrshort89/jrshort89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
