@@ -4,7 +4,7 @@
 
 👯  I’m looking to collaborate on pretty much anything educational in the coding realm.
 
-⚡  Fun fact: I think of semi-elaborate fantasy storylines in my spare time.
+⚡  Fun fact: I am an avid Starcraft 2 fan.
 <!--
 **jrshort89/jrshort89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
