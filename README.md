@@ -5,6 +5,8 @@
 👯  I’m looking to collaborate on pretty much anything educational in the coding realm.
 
 ⚡  Fun fact: I am an avid Starcraft 2 fan.
+
+💬 [https://jrshort89.medium.com/] Blog on medium.
 <!--
 **jrshort89/jrshort89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
