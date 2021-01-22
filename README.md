@@ -1,10 +1,12 @@
 ### Hi there  👋
 
-🔭  I am currently working on my final project for my coding bootcamp!
+🔭  I am currently working on a code wars clone!
 
 👯  I’m looking to collaborate on pretty much anything educational in the coding realm.
 
 ⚡  Fun fact: I am an avid Starcraft 2 fan.
+
+📫 [Linkedin](https://www.linkedin.com/in/jacob-short-b4523676/)
 
 💬 [My techy blog on medium.](https://jrshort89.medium.com/)
 <!--
