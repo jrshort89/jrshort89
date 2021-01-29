@@ -1,6 +1,6 @@
 ### Hi there  👋
 
-🔭  I am currently working on a code wars clone!
+🔭  I am currently working on a code wars clone/learning platform!
 
 👯  I’m looking to collaborate on pretty much anything educational in the coding realm.
 
