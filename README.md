@@ -1,6 +1,6 @@
 ### Hi there  👋
 
-🔭  I am currently working on a code wars clone/learning platform!
+🔭  I am currently contributing to open source work!
 
 🤔  I’m looking for help with breaking into the open-source community in a meaningful way.
 
