@@ -1,6 +1,6 @@
 ### Hi there  👋
 
-🔭  I am currently contributing to open source work!
+🔭  I am currently contributing to open source work and learning Java!
 
 🤔  I’m looking for help with breaking into the open-source community in a meaningful way.
 
