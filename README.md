@@ -10,6 +10,8 @@
 
 📫 [Linkedin](https://www.linkedin.com/in/jacob-short-b4523676/)
 
+📫 [Twitter](https://twitter.com/JRShort89)
+
 💬 [My techy blog on medium.](https://jrshort89.medium.com/)
 <!--
 **jrshort89/jrshort89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
