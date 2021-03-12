@@ -2,8 +2,6 @@
 
 🔭  I am currently working at RTS Labs in Richmond, VA.
 
-🤔  I’m looking for help with breaking into the open-source community in a meaningful way.
-
 👯  I’m looking to collaborate on pretty much anything educational in the coding realm. Maybe I should make a podcast as well... 
 
 ⚡  Fun fact: I am an avid Starcraft 2 fan.
