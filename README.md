@@ -2,7 +2,7 @@
 
 🔭  I am currently working at RTS Labs in Richmond, VA.
 
-👯  I’m looking to collaborate on pretty much anything educational in the coding realm. Maybe I should make a podcast as well... 
+👯  I’m currently looking to make some fun stuff in Unity or React Native.
 
 ⚡  Fun fact: I am an avid Starcraft 2 fan.
 
