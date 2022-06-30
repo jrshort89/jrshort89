@@ -1,7 +1,5 @@
 ### Hi there  👋
 
-🔭  I am currently working at RTS Labs in Richmond, VA. [Gitlab](https://gitlab.com/jake.short) is being used for my current project. That is where my activity is displayed for your viewing pleasure.
-
 ⚡  Fun fact: I am an avid Starcraft 2 fan.
 
 📫 [Linkedin](https://www.linkedin.com/in/jacob-short-b4523676/)
