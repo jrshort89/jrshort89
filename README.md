@@ -8,7 +8,7 @@
 
 💬 [My techy blog on medium.](https://jrshort89.medium.com/)
 
-[Work Github.](https://github.com/jake-short-pop-menu)
+[Work Github](https://github.com/jake-short-pop-menu)
 <!--
 **jrshort89/jrshort89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
